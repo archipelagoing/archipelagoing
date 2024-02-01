@@ -8,5 +8,5 @@
 <!--- - 💬 Ask me about ... -->
 - 📫 How to reach me: archisa28@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I also really like to sew & do embroidery!
+- ⚡ Fun fact: I also like to sew!
 
