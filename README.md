@@ -1,5 +1,6 @@
 # ✨ Hi, I'm Archisa Bhattacharya! ✨  
 **CS @ Rutgers | AI/ML Enthusiast | Hackathon Builder | Cybersecurity Explorer**  
+**archisa28@gmail.com**
 
 ---
 
