@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Archisa Bhattacharya! ✨  
-**CS @ Rutgers | AI/ML Enthusiast | Hackathon Builder | Cybersecurity Explorer**  
+**CS @ Rutgers | AI/ML Enthusiast | Perpetual Learner**  
 **archisa28@gmail.com**
 
 ---
@@ -7,7 +7,6 @@
 🚀 **What I Do:**  
 - 🧠 Exploring **AI & NLP** (currently obsessed with Decision Transformers & attention-based models)  
 - 🔥 Building cool projects like **NoteSharp** (OCR + Markdown) & **blockchain-powered trading cards**  
-- 💻 Making **hackathon magic happen** (Python, Firebase, React, Flet, and whatever gets the job done)  
 - 🛠️ Developing **Obsidian plugins** for smarter note-taking  
 
 💡 **My Current Tech Stack:**  
@@ -26,9 +25,7 @@
 ---
 
 ### 🎯 My 2025 Goals  
-✅ Ship a **fully functional** AI-powered reading aid  
 ✅ Get deeper into **cybersecurity & blockchain**  
-✅ Publish my **first NLP research paper**  
 ✅ Win (or at least survive) **a hackathon every season**  
 ✅ Keep adding to my **crazy idea wall**  
 
