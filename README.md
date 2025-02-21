@@ -18,7 +18,7 @@
 📚 **What I'm Learning!**  
 - 🤖 The **Decision Transformer Model**  
 - 🧵 **Tatting lace** (yes, making fancy lace by hand!)  
-- 🐦 **Bird migration patterns** (because nature is cool)  
+- 🐦 **Bird migration patterns** 
 - 🤝 **Multi-Agentic Reinforcement Learning**  
 
 ---
