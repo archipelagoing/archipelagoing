@@ -1,5 +1,5 @@
 # ✨ Hi, I'm Archisa Bhattacharya! ✨  
-**CS @ Rutgers | AI/ML Enthusiast | Perpetual Learner**  
+**AI/ML Enthusiast | Perpetual Learner**  
 **archisa28@gmail.com**
 
 ---
@@ -10,7 +10,6 @@
 - 🛠️ Developing **Obsidian plugins** for smarter note-taking  
 
 💡 **My Current Tech Stack:**  
-- 🐍 Python | 🏗️ Flask | 🔥 Firebase | ⚡ Flet | 🖥️ React  
 - 📊 Machine Learning | 🤖 NLP | 🔐 Cybersecurity  
 - 🎭 Prolog (because AI reasoning is *fun*)  
 
