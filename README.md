@@ -2,6 +2,21 @@
 Thanks for showing interest in me and my work!
 Reach out to me at archisa28@gmail.com :)
 ---------------------------------------------------------------------------------------------------------------
+
+## play a round! :: Rock · Paper · Scissors
+
+Choose your move:
+
+- 🪨 [Rock](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=RPS:+Rock)
+- 📄 [Paper](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=RPS:+Paper)
+- ✂️ [Scissors](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=RPS:+Scissors)
+
+<!-- BEGIN RPS STATUS -->
+**Rounds played:** 0  
+**Last result:** —
+<!-- END RPS STATUS -->
+
+---------------------------------------------------------------------------------------------------------------
 # 👩🏽‍💻 A couple of my ongoing projects! 👩🏽‍💻
 ## Front Burner
 - **Colab Lux**  
