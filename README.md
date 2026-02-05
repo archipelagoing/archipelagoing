@@ -3,23 +3,23 @@ Thanks for showing interest in me and my work!
 Reach out to me at archisa28@gmail.com :)
 ---------------------------------------------------------------------------------------------------------------
 
-## 🪨📄✂️ _-_- play a round! :: Rock · Paper · Scissors 🪨📄✂️_-_-
+## 🪨📄✂️ _-_- play a round! :: rock · paper · scissors 🪨📄✂️_-_-
 
-Choose your move:
+choose your move:
 
-- 🪨 [Rock](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Rock&body=click+create+/+leave+a+hidden+message)
-- 📄 [Paper](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Paper&body=click+create+/+leave+a+hidden+message)
-- ✂️ [Scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors&body=click+create+/+leave+a+hidden+message)
+- 🪨 [rock](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Rock&body=click+create+/+leave+a+hidden+message)
+- 📄 [paper](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Paper&body=click+create+/+leave+a+hidden+message)
+- ✂️ [scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors&body=click+create+/+leave+a+hidden+message)
 
 <!-- BEGIN RPS STATUS -->
-**Rounds played:** 5  
-**Record:** 0W · 1L · 0T  
+**rounds played:** 5  
+**record:** 0W · 1L · 0T  
 
-**Move counts:**  
-🪨 Rock: 3 · 📄 Paper: 1 · ✂️ Scissors: 1  
+**move counts:**  
+🪨 rock: 3 · 📄 paper: 1 · ✂️ scissors: 1  
 
-**Last player:** @archipelagoing  
-**Last round:** You played **Paper** · Computer played **Scissors** → **Loss**
+**last player:** @archipelagoing  
+**last round:** you played **Paper** · computer played **Scissors** → **Loss**
 <!-- END RPS STATUS -->
 
 🪨📄✂️ -_-_(This runs via GitHub Actions — results appear after a short delay.)_-_- 🪨📄✂️
