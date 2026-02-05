@@ -3,7 +3,7 @@ Thanks for showing interest in me and my work!
 Reach out to me at archisa28@gmail.com :)
 ---------------------------------------------------------------------------------------------------------------
 
-## 🪨📄✂️ _-_- play a round! :: Rock · Paper · Scissors 🪨📄✂️_-_- 🪨📄✂️_-_- 🪨📄✂️_-_- 🪨📄✂️_-_-
+## 🪨📄✂️ _-_- play a round! :: Rock · Paper · Scissors 🪨📄✂️_-_-
 
 Choose your move:
 
