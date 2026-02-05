@@ -22,8 +22,8 @@ choose your move:
 **last round:** 😄 you played **paper** · 💻 computer played **Rock** → **Loss**
 <!-- END RPS STATUS -->
 
-🪨📄✂️(this runs via GitHub Actions! here are some instructions 🪨📄✂️ <br>
-(1.click your move 🪨 2.click commit 📄 3.wait until round complete ✂️ 4.click my profile picture  🪨 5.refresh the page to see results)
+🪨📄✂️( this runs via GitHub Actions! here are some instructions     )  🪨📄✂️ <br>
+(1.click your move  🪨 2.click commit  📄 3.wait until round complete  ✂️ 4.click my profile picture   🪨 5.refresh the page to see results)
 
 
 ---------------------------------------------------------------------------------------------------------------
