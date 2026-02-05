@@ -25,9 +25,11 @@ jobs:
           git config user.email "rps-bot@users.noreply.github.com"
           git add README.md
           git commit -m "Update RPS game state"
+          git diff --cached --quiet || git commit -m "Update RPS game state"
           git push
 
       - name: Close issue
+        if: startsWith(github.event.issue.title, 'RPS:')
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
@@ -44,4 +46,5 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             https://api.github.com/repos/$REPO/issues/$ISSUE_NUMBER \
             -d '{"state":"closed"}'
+
 
