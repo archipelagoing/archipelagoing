@@ -1,6 +1,6 @@
-# hello, i'm archisa!
-Thanks for showing interest in me and my work!
-Reach out to me at archisa28@gmail.com :)
+# hi, i'm archisa!
+thanks for showing interest in me and my work! <br>
+reach out to me at archisa28@gmail.com :)
 ---------------------------------------------------------------------------------------------------------------
 
 ## 🪨📄✂️ -- play  a  round  of  rock  ·  paper  ·  scissors  --🪨📄✂️
