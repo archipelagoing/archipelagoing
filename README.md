@@ -19,7 +19,7 @@ choose your move:
 🪨 rock: 3 · 📄 paper: 1 · ✂️ scissors: 1  
 
 **last player:** @archipelagoing  
-**last round:** you played **Paper** · computer played **Scissors** → **Loss**
+**last round:** 🧑🏻 you played **Paper** · 💻 computer played **Scissors** → **Loss**
 <!-- END RPS STATUS -->
 
 🪨📄✂️ -_-_(This runs via GitHub Actions — results appear after a short delay.)_-_- 🪨📄✂️
