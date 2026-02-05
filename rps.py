@@ -3,7 +3,7 @@ import random
 import re
 
 # Inputs from GitHub
-player_move = os.environ["ISSUE_TITLE"].replace("RPS:", "").strip()
+player_move = os.environ["ISSUE_TITLE"].replace("RPS:", "").strip().lower()
 player = os.environ.get("ACTOR", "someone")
 
 choices = ["Rock", "Paper", "Scissors"]
@@ -17,9 +17,15 @@ elif (
     (player_move == "Paper" and computer_move == "Rock") or
     (player_move == "Scissors" and computer_move == "Paper")
 ):
-    outcome = "🏆 Win"
+    outcome = "Win"
 else:
     outcome = "Loss"
+    
+outcome_display = {
+    "Win": "🏆 Win",
+    "Loss": "Loss",
+    "Tie": "Tie"
+}[outcome]
 
 with open("README.md", "r") as f:
     readme = f.read()
@@ -43,16 +49,19 @@ elif outcome == "Loss":
 else:
     ties += 1
 
-rock_count = extract(r"Rock: (\d+)")
-paper_count = extract(r"Paper: (\d+)")
-scissors_count = extract(r"Scissors: (\d+)")
+rock_count = extract(r"rock: (\d+)")
+paper_count = extract(r"paper: (\d+)")
+scissors_count = extract(r"scissors: (\d+)")
 
-if player_move == "Rock":
+
+    
+if player_move == "rock":
     rock_count += 1
-elif player_move == "Paper":
+elif player_move == "paper":
     paper_count += 1
-else:
+elif player_move == "scissors":
     scissors_count += 1
+
 
 # --- Build new status block ---
 
