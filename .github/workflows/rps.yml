@@ -16,6 +16,8 @@ jobs:
         run: python rps.py
         env:
           ISSUE_TITLE: ${{ github.event.issue.title }}
+          ACTOR: ${{ github.event.issue.user.login }}
+
 
       - name: Commit README update
         run: |
