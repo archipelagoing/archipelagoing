@@ -7,9 +7,9 @@ Reach out to me at archisa28@gmail.com :)
 
 Choose your move:
 
-- 🪨 [Rock](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Rock)
-- 📄 [Paper](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Paper)
-- ✂️ [Scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors)
+- 🪨 [Rock](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Rock&body=click+create+/+leave+a+hidden+message)
+- 📄 [Paper](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Paper&body=click+create+/+leave+a+hidden+message)
+- ✂️ [Scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors&body=click+create+/+leave+a+hidden+message)
 
 <!-- BEGIN RPS STATUS -->
 **Rounds played:** 2  
