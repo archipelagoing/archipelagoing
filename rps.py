@@ -17,7 +17,7 @@ elif (
     (player_move == "Paper" and computer_move == "Rock") or
     (player_move == "Scissors" and computer_move == "Paper")
 ):
-    outcome = "Win"
+    outcome = "🏆 Win"
 else:
     outcome = "Loss"
 
@@ -57,13 +57,13 @@ else:
 # --- Build new status block ---
 
 new_status = (
-    f"**Rounds played:** {rounds}  \n"
-    f"**Record:** {wins}W · {losses}L · {ties}T  \n\n"
-    f"**Move counts:**  \n"
-    f"🪨 Rock: {rock_count} · 📄 Paper: {paper_count} · ✂️ Scissors: {scissors_count}  \n\n"
-    f"**Last player:** @{player}  \n"
-    f"**Last round:** You played **{player_move}** · "
-    f"Computer played **{computer_move}** → **{outcome}**"
+    f"**rounds played:** {rounds}  \n"
+    f"**record:** {wins}W · {losses}L · {ties}T  \n\n"
+    f"**move counts:**  \n"
+    f"🪨 rock: {rock_count} · 📄 paper: {paper_count} · ✂️ scissors: {scissors_count}  \n\n"
+    f"**last player:** @{player}  \n"
+    f"**last round:** 😄 you played **{player_move}** · "
+    f"💻 computer played **{computer_move}** → **{outcome}**"
 )
 
 updated = re.sub(
