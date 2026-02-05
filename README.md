@@ -14,6 +14,12 @@ Choose your move:
 <!-- BEGIN RPS STATUS -->
 **Rounds played:** 4  
 **Last result:** You chose Scissors. Computer chose Scissors. Tie.
+
+**Move counts:**  
+🪨 Rock: 3 · 📄 Paper: 0 · ✂️ Scissors: 1  
+
+**Last player:** —
+**Last round:** —
 <!-- END RPS STATUS -->
 
 🪨📄✂️ -_-_(This runs via GitHub Actions — results appear after a short delay.)_-_- 🪨📄✂️
