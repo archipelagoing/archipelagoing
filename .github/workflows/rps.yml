@@ -1,0 +1,26 @@
+name: Rock Paper Scissors
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'RPS:')
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run RPS script
+        run: python rps.py
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+
+      - name: Commit README update
+        run: |
+          git config user.name "rps-bot"
+          git config user.email "rps-bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update RPS game state"
+          git push
