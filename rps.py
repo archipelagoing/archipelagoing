@@ -2,31 +2,68 @@ import os
 import random
 import re
 
+# Inputs from GitHub
 player_move = os.environ["ISSUE_TITLE"].replace("RPS:", "").strip()
+player = os.environ.get("ACTOR", "someone")
+
 choices = ["Rock", "Paper", "Scissors"]
 computer_move = random.choice(choices)
 
+# Determine outcome
 if player_move == computer_move:
-    outcome = "Tie."
+    outcome = "Tie"
 elif (
     (player_move == "Rock" and computer_move == "Scissors") or
     (player_move == "Paper" and computer_move == "Rock") or
     (player_move == "Scissors" and computer_move == "Paper")
 ):
-    outcome = "You win."
+    outcome = "Win"
 else:
-    outcome = "You lose."
+    outcome = "Loss"
 
 with open("README.md", "r") as f:
     readme = f.read()
 
-match = re.search(r"\*\*Rounds played:\*\* (\d+)", readme)
-rounds = int(match.group(1)) + 1 if match else 1
+# --- Extract current counters ---
+
+def extract(pattern, default=0):
+    m = re.search(pattern, readme)
+    return int(m.group(1)) if m else default
+
+rounds = extract(r"\*\*Rounds played:\*\* (\d+)") + 1
+
+wins = extract(r"(\d+)W")
+losses = extract(r"(\d+)L")
+ties = extract(r"(\d+)T")
+
+if outcome == "Win":
+    wins += 1
+elif outcome == "Loss":
+    losses += 1
+else:
+    ties += 1
+
+rock_count = extract(r"Rock: (\d+)")
+paper_count = extract(r"Paper: (\d+)")
+scissors_count = extract(r"Scissors: (\d+)")
+
+if player_move == "Rock":
+    rock_count += 1
+elif player_move == "Paper":
+    paper_count += 1
+else:
+    scissors_count += 1
+
+# --- Build new status block ---
 
 new_status = (
     f"**Rounds played:** {rounds}  \n"
-    f"**Last result:** You chose {player_move}. "
-    f"Computer chose {computer_move}. {outcome}"
+    f"**Record:** {wins}W · {losses}L · {ties}T  \n\n"
+    f"**Move counts:**  \n"
+    f"🪨 Rock: {rock_count} · 📄 Paper: {paper_count} · ✂️ Scissors: {scissors_count}  \n\n"
+    f"**Last player:** @{player}  \n"
+    f"**Last round:** You played **{player_move}** · "
+    f"Computer played **{computer_move}** → **{outcome}**"
 )
 
 updated = re.sub(
