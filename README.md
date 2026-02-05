@@ -23,7 +23,7 @@ choose your move:
 <!-- END RPS STATUS -->
 
 🪨📄✂️( this runs via GitHub Actions! here are some instructions     )  🪨📄✂️ <br>
-(1.click your move  🪨 2.click commit  📄 3.wait until round complete  ✂️ 4.click my profile picture   🪨 5.refresh the page to see results)
+(1.click your move  🪨 2.click commit  📄 3.wait until round complete  ✂️ 4. come back to my profile  🪨 5.refresh the page to see results)
 
 
 ---------------------------------------------------------------------------------------------------------------
