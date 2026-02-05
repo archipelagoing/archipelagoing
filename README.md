@@ -13,13 +13,13 @@ choose your move:
 
 <!-- BEGIN RPS STATUS -->
 **rounds played:** 1  
-**record:** 2W · 3L · 1T  
+**record:** 2W · 3L · 2T  
 
 **move counts:**  
-🪨 rock: 1 · 📄 paper: 0 · ✂️ scissors: 0  
+🪨 rock: 0 · 📄 paper: 1 · ✂️ scissors: 0  
 
 **last player:** @archipelagoing  
-**last round:** 😄 you played **Rock** · 💻 computer played **Paper** → **Loss**
+**last round:** 😄 you played **Paper** · 💻 computer played **Paper** → **Tie**
 <!-- END RPS STATUS -->
 
 🪨📄✂️ -_-_(This runs via GitHub Actions — results appear after a short delay.)_-_- 🪨📄✂️
