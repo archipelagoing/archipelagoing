@@ -12,8 +12,8 @@ Choose your move:
 - ✂️ [Scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors)
 
 <!-- BEGIN RPS STATUS -->
-**Rounds played:** 1  
-**Last result:** You chose Rock. Computer chose Rock. Tie.
+**Rounds played:** 2  
+**Last result:** You chose Rock. Computer chose Scissors. You win.
 <!-- END RPS STATUS -->
 
 ---------------------------------------------------------------------------------------------------------------
