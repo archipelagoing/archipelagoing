@@ -36,7 +36,8 @@ def extract(pattern, default=0):
     m = re.search(pattern, readme)
     return int(m.group(1)) if m else default
 
-rounds = extract(r"\*\*Rounds played:\*\* (\d+)") + 1
+rounds = extract(r"\*\*rounds played:\*\* (\d+)") + 1
+
 
 wins = extract(r"(\d+)W")
 losses = extract(r"(\d+)L")
