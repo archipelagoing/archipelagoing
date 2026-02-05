@@ -12,8 +12,8 @@ Choose your move:
 - ✂️ [Scissors](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=RPS:+Scissors)
 
 <!-- BEGIN RPS STATUS -->
-**Rounds played:** 0  
-**Last result:** —
+**Rounds played:** 1  
+**Last result:** You chose Rock. Computer chose Rock. Tie.
 <!-- END RPS STATUS -->
 
 ---------------------------------------------------------------------------------------------------------------
