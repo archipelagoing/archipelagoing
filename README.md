@@ -22,7 +22,8 @@ choose your move:
 **last round:** 😄 you played **paper** · 💻 computer played **Rock** → **Loss**
 <!-- END RPS STATUS -->
 
-🪨📄✂️(this runs via GitHub Actions! 1. click your move_ 2.  click commit_ 3. wait until round complete_ 4. click my profile picture_ 5.  refresh the page to see results)🪨📄✂️
+🪨📄✂️(this runs via GitHub Actions! here are some instructions 🪨📄✂️ <br>
+(1.click your move 🪨 2.click commit 📄 3.wait until round complete ✂️ 4.click my profile picture  🪨 5.refresh the page to see results)
 
 
 ---------------------------------------------------------------------------------------------------------------
@@ -43,25 +44,7 @@ choose your move:
   - Focuses on mid-layers where higher-level abstractions and relational structure emerge
   - Builds clean visualizations of representation flow across layers
   - Frames internal model behavior geometrically (manifold / flow-based) rather than token-only
-  - Aims to make transformer internals legible to humans, not just measurable via probes
- 
-## Back Burner
-- **Reasoning Engine (WIP)**  
-  A structured reasoning layer for agents (human or LLM) that outputs a readable trace + overview/TOC, designed to balance clarity with constraint and avoid common failure modes (collapse/ramble).
-  
-  - Experimental reasoning layer designed as an explicit intermediate representation
-  - Produces structured, human-readable reasoning traces instead of post-hoc explanations
-  - Outputs both high-level overviews (e.g., TOC / outline) and fine-grained steps
-  - Informed by common LLM failure modes (premature collapse, rambling, over-constraint)
-  - Intended for both human decision support and agentic LLM systems
-  - Explores how constraint and flexibility can be balanced to stabilize reasoning
-
-- **Chrome Tab Manager (Agentic)**  
-  - Agent-assisted Chrome extension for managing complex browsing workflows
-  - Clusters tabs by task, theme, and temporal context
-  - Generates summaries to preserve intent across sessions
-  - Reduces cognitive overload during research-heavy or multi-threaded work
-  - Emphasizes user control with lightweight automation rather than full autonomy
+  - Aims to make transformer internals legible to humans, not just measurable via probe
 
 ----------------
 ## About Me
