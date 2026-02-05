@@ -12,8 +12,8 @@ Choose your move:
 - ✂️ [Scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors&body=click+create+/+leave+a+hidden+message)
 
 <!-- BEGIN RPS STATUS -->
-**Rounds played:** 3  
-**Last result:** You chose Rock. Computer chose Rock. Tie.
+**Rounds played:** 4  
+**Last result:** You chose Scissors. Computer chose Scissors. Tie.
 <!-- END RPS STATUS -->
 
 🪨📄✂️ -_-_(This runs via GitHub Actions — results appear after a short delay.)_-_- 🪨📄✂️
