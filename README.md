@@ -3,13 +3,13 @@ Thanks for showing interest in me and my work!
 Reach out to me at archisa28@gmail.com :)
 ---------------------------------------------------------------------------------------------------------------
 
-## 🪨📄✂️ -- play a round! :: rock · paper · scissors 🪨📄✂️--
+## 🪨📄✂️ -- play  a  round  of  rock  ·  paper  ·  scissors  --🪨📄✂️
 
 choose your move:
 
 - 🪨 [rock](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Rock&body=click+create+%26+wait+until+round+complete)
-- 📄 [paper](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Paper&body=body=click+create+%26+wait+until+round+complete)
-- ✂️ [scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors&body=body=click+create+%26+wait+until+round+complete)
+- 📄 [paper](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Paper&body=click+create+%26+wait+until+round+complete)
+- ✂️ [scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors&body=click+create+%26+wait+until+round+complete)
 
 <!-- BEGIN RPS STATUS -->
 **Rounds played:** 2  
