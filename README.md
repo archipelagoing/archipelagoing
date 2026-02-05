@@ -3,7 +3,7 @@ Thanks for showing interest in me and my work!
 Reach out to me at archisa28@gmail.com :)
 ---------------------------------------------------------------------------------------------------------------
 
-## play a round! :: Rock · Paper · Scissors
+## 🪨📄✂️ _-_- play a round! :: Rock · Paper · Scissors 🪨📄✂️_-_- 🪨📄✂️_-_- 🪨📄✂️_-_- 🪨📄✂️_-_-
 
 Choose your move:
 
@@ -15,6 +15,9 @@ Choose your move:
 **Rounds played:** 3  
 **Last result:** You chose Rock. Computer chose Rock. Tie.
 <!-- END RPS STATUS -->
+
+🪨📄✂️ -_-_(This runs via GitHub Actions — results appear after a short delay.)_-_- 🪨📄✂️
+
 
 ---------------------------------------------------------------------------------------------------------------
 # 👩🏽‍💻 A couple of my ongoing projects! 👩🏽‍💻
