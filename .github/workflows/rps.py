@@ -1,3 +1,5 @@
+## this code actually doesnt matter at all lol, only kept as a backup
+
 import os
 import random
 import re
