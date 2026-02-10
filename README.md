@@ -27,8 +27,7 @@ choose your move:
 
 
 ---------------------------------------------------------------------------------------------------------------
-# 👩🏽‍💻 A couple of my ongoing projects! 👩🏽‍💻
-## Front Burner
+# 👩🏽‍💻 what i'm working on! 👩🏽‍💻
 - **Colab Lux**  
   A Chrome/Colab workflow tool for auto-generating lightweight docs (timestamp + summary) and pushing updates to Git (e.g., via Gist), with optional “refactor/ticket” prompts.
     - Chrome/Colab-integrated workflow tool -  for documenting work as it happens
