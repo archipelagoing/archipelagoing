@@ -23,12 +23,12 @@ choose your move:
 <!-- END RPS STATUS -->
 
 🪨📄✂️( this runs via GitHub Actions! here are some instructions     )  🪨📄✂️ <br>
-(1.click your move  🪨 2.click commit  📄 3.wait until round complete  ✂️ 4. come back to my profile  🪨 5.refresh the page to see results)
+(1.click your move  🪨 2.click commit  📄 3.wait till round complete  ✂️ 4. come back to my profile  🪨 5.refresh the page to see results)
 
 
 ---------------------------------------------------------------------------------------------------------------
 # 👩🏽‍💻 what i'm working on! 👩🏽‍💻
-- **Colab Lux**  
+- **Colab Lux**  : SEARCHING FOR DEVS! 
   A Chrome/Colab workflow tool for auto-generating lightweight docs (timestamp + summary) and pushing updates to Git (e.g., via Gist), with optional “refactor/ticket” prompts.
     - Chrome/Colab-integrated workflow tool -  for documenting work as it happens
     - **Auto-generates lightweight documentation** (timestamps, short summaries, code context)
