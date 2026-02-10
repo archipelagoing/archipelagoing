@@ -1,6 +1,6 @@
-# hi, i'm archisa!
+# hi, i'm archisa! i like to build things :)
 thanks for showing interest in me and my work! <br>
-reach out to me at archisa28@gmail.com :)
+reach out to me at archisa28@gmail.com
 ---------------------------------------------------------------------------------------------------------------
 
 ## 🪨📄✂️ -- play  a  round  of  rock  ·  paper  ·  scissors  --🪨📄✂️
