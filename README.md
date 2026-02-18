@@ -1,5 +1,5 @@
-# hi, i'm archisa! i like to build things 👩🏽‍💻
-thanks for showing interest in me and my work :-)  <br>
+# hi, i'm archisa! i like to build things :-)
+thanks for showing interest in my work !!  <br>
 reach out to me at archisa28@gmail.com
 ---------------------------------------------------------------------------------------------------------------
 
