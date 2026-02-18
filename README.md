@@ -1,5 +1,5 @@
-# hi, i'm archisa! i like to build things :)
-thanks for showing interest in me and my work! <br>
+# hi, i'm archisa! i like to build things 👩🏽‍💻
+thanks for showing interest in me and my work :-)  <br>
 reach out to me at archisa28@gmail.com
 ---------------------------------------------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ choose your move:
 
 ----------------
 ## About Me
-- I study how decisions are made—by people and by machines.
+- I study how decisions are made, by people and by machines.
 - I’m interested in the structure behind good outcomes, not just the outcomes themselves.
 - Transformer models gave me a concrete way to examine decision-making from an external, inspectable system.
 - My work focuses on internal representations, mid-layer reasoning, and interpretability.
