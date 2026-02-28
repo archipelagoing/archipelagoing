@@ -31,12 +31,12 @@ choose your move:
 - **Colab Lux**  : SEARCHING FOR DEVS! 
   A Chrome/Colab workflow tool for auto-generating lightweight docs (timestamp + summary) and pushing updates to Git (e.g., via Gist), with optional “refactor/ticket” prompts.
     - Chrome/Colab-integrated workflow tool -  for documenting work as it happens
-    - **Auto-generates lightweight documentation** (timestamps, short summaries, code context)
-    - **Pushes documentation directly to GitHub** (e.g., via Gists) to create a traceable dev history
-    - Designed to **minimize context-switching** between coding, thinking, and writing 
-    - Exploring **minimal ticketing** and refactor prompts to track iteration effort without heavy PM tools
+    - Auto-generates lightweight documentation (timestamps, short summaries, code context)
+    - Pushes documentation directly to GitHub (e.g., via Gists) to create a traceable dev history
+    - Designed to minimize context-switching between coding, thinking, and writing 
+    - Exploring minimal ticketing and refactor prompts to track iteration effort without heavy PM tools
 
-- **SituatiONION (Transformer Architecture + Mid-Layers Visualization)**  
+- **Transformer Architecture + Mid-Layers Visualization **  
   A layerwise study of GPT-2 XL focusing on how representations evolve across depth, with clean visualizations of mid-layer “situation modeling” and layer-to-layer dynamics.
   - Layerwise analysis of transformer models (focused on GPT-2 XL)
   - Treats early, mid, and late layers as functionally distinct regimes
@@ -45,11 +45,4 @@ choose your move:
   - Frames internal model behavior geometrically (manifold / flow-based) rather than token-only
   - Aims to make transformer internals legible to humans, not just measurable via probe
 
-----------------
-## About Me
-- I study how decisions are made, by people and by machines.
-- I’m interested in the structure behind good outcomes, not just the outcomes themselves.
-- Transformer models gave me a concrete way to examine decision-making from an external, inspectable system.
-- My work focuses on internal representations, mid-layer reasoning, and interpretability.
-- I’ve spent the past several months analyzing GPT-2 XL to understand how meaning emerges and stabilizes across layers.
 
