@@ -50,17 +50,17 @@ elif outcome == "Loss":
 else:
     ties += 1
 
-rock_count = extract(r"rock: (\d+)")
-paper_count = extract(r"paper: (\d+)")
-scissors_count = extract(r"scissors: (\d+)")
+rock_count = extract(r"Rock: (\d+)")
+paper_count = extract(r"Paper: (\d+)")
+scissors_count = extract(r"Scissors: (\d+)")
 
 
     
-if player_move == "rock":
+if player_move == "Rock":
     rock_count += 1
-elif player_move == "paper":
+elif player_move == "Paper":
     paper_count += 1
-elif player_move == "scissors":
+elif player_move == "Scissors":
     scissors_count += 1
 
 
@@ -70,7 +70,7 @@ new_status = (
     f"**rounds played:** {rounds}  \n"
     f"**record:** {wins}W · {losses}L · {ties}T  \n\n"
     f"**move counts:**  \n"
-    f"🪨 rock: {rock_count} · 📄 paper: {paper_count} · ✂️ scissors: {scissors_count}  \n\n"
+    f"🪨 Rock: {rock_count} · 📄 Paper: {paper_count} · ✂️ Scissors: {scissors_count}  \n\n"
     f"**last player:** @{player}  \n"
     f"**last round:** 😄 you played **{player_move}** · "
     f"💻 computer played **{computer_move}** → **{outcome}**"
