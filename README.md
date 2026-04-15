@@ -16,7 +16,7 @@ choose your move:
 **record:** 1W · 9L · 0T  
 
 **move counts:**  
-🪨 Rock: 0 · 📄 Paper: 0 · ✂️ Scissors: 1  
+🪨 Rock: 5 · 📄 Paper: 3 · ✂️ Scissors: 1  
 
 **last player:** @archipelagoing  
 **last round:** 😄 you played **Scissors** · 💻 computer played **Paper** → **🏆 Win**
