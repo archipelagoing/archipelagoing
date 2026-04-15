@@ -70,7 +70,7 @@ new_status = (
     f"🪨 Rock: {rock_count} · 📄 Paper: {paper_count} · ✂️ Scissors: {scissors_count}  \n\n"
     f"**last player:** @{player}  \n"
     f"**last round:** 😄 you played **{player_move.title()}** · "
-    f"💻 computer played **{computer_move.title()}** → **{outcome_display}  \n**"
+    f"💻 computer played **{computer_move.title()}** → **{outcome_display}** \n"
     f"**play shown:** 😄 {move_emoji[player_move]} vs {move_emoji[computer_move]}💻  \n"
 )
 
