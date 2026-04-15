@@ -63,11 +63,18 @@ move_emoji = {
     "scissors": "✂️"
 }
 
+def bar(n, scale=1):
+    return "█" * max(1, n // scale) if n > 0 else "–"
+
 new_status = (
     f"**rounds played:** {rounds}  \n"
     f"**record:** {wins}W · {losses}L · {ties}T  \n\n"
     f"**move counts:**  \n"
     f"🪨 Rock: {rock_count} · 📄 Paper: {paper_count} · ✂️ Scissors: {scissors_count}  \n\n"
+    f"**move chart:**  \n"
+    f"🪨 Rock     {bar(rock_count)} ({rock_count})  \n"
+    f"📄 Paper    {bar(paper_count)} ({paper_count})  \n"
+    f"✂️ Scissors {bar(scissors_count)} ({scissors_count}) \n"
     f"**last player:** @{player}  \n"
     f"**last round:** 😄 you played **{player_move.title()}** · "
     f"💻 computer played **{computer_move.title()}** → **{outcome_display}** \n\n"
