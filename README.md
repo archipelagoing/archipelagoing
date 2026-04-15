@@ -12,16 +12,20 @@ choose your move:
 - ✂️ [scissors](https://github.com/archipelagoing/archipelagoing/issues/new?title=RPS:+Scissors&body=click+create+%26+wait+until+round+complete)
 
 <!-- BEGIN RPS STATUS -->
-**rounds played:** 17  
-**record:** 2W · 13L · 2T  
+**rounds played:** 18  
+**record:** 2W · 14L · 2T  
 
 **move counts:**  
-🪨 Rock: 6 · 📄 Paper: 5 · ✂️ Scissors: 5  
+🪨 Rock: 6 · 📄 Paper: 6 · ✂️ Scissors: 5  
 
+**move chart:**  
+🪨 Rock     ██████ (6)  
+📄 Paper    ██████ (6)  
+✂️ Scissors █████ (5) 
 **last player:** @archipelagoing  
-**last round:** 😄 you played **Scissors** · 💻 computer played **Rock** → **❌ Loss** 
+**last round:** 😄 you played **Paper** · 💻 computer played **Scissors** → **❌ Loss** 
 
-**play shown:** 😄 ✂️ vs 🪨💻  
+**play shown:** 😄 📄 vs ✂️💻  
 
 <!-- END RPS STATUS -->
 
