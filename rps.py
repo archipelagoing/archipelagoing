@@ -71,7 +71,7 @@ new_status = (
     f"**last player:** @{player}  \n"
     f"**last round:** 😄 you played **{player_move.title()}** · "
     f"💻 computer played **{computer_move.title()}** → **{outcome_display}**"
-    f"**play shown:** 😄 {move_emoji[player_move]} vs 💻 {move_emoji[computer_move]}  \n"
+    f"**play shown:** 😄 {move_emoji[player_move]} vs {move_emoji[computer_move]}💻  \n"
 )
 
 updated = re.sub(
