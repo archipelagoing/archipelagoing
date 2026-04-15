@@ -57,6 +57,12 @@ elif player_move == "paper":
 elif player_move == "scissors":
     scissors_count += 1
 
+move_emoji = {
+    "rock": "🪨",
+    "paper": "📄",
+    "scissors": "✂️"
+}
+
 new_status = (
     f"**rounds played:** {rounds}  \n"
     f"**record:** {wins}W · {losses}L · {ties}T  \n\n"
@@ -65,6 +71,7 @@ new_status = (
     f"**last player:** @{player}  \n"
     f"**last round:** 😄 you played **{player_move.title()}** · "
     f"💻 computer played **{computer_move.title()}** → **{outcome_display}**"
+    f"**play shown:** 😄 {move_emoji[player_move]} vs 💻 {move_emoji[computer_move]}  \n"
 )
 
 updated = re.sub(
