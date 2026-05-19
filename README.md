@@ -31,15 +31,8 @@ choose your move:
 
 ---------------------------------------------------------------------------------------------------------------
 # 👩🏽‍💻 what i'm working on! 👩🏽‍💻
-- **Colab Lux**  : SEARCHING FOR DEVS! 
-  A Chrome/Colab workflow tool for auto-generating lightweight docs (timestamp + summary) and pushing updates to Git (e.g., via Gist), with optional “refactor/ticket” prompts.
-    - Chrome/Colab-integrated workflow tool -  for documenting work as it happens
-    - Auto-generates lightweight documentation (timestamps, short summaries, code context)
-    - Pushes documentation directly to GitHub (e.g., via Gists) to create a traceable dev history
-    - Designed to minimize context-switching between coding, thinking, and writing 
-    - Exploring minimal ticketing and refactor prompts to track iteration effort without heavy PM tools
 
-- **SITUATIONION- Transformer Architecture + Mid-Layers Visualization **  
+- **SITUATIONION** - Transformer Architecture + Mid-Layers Visualization 
   A layerwise study of GPT-2 XL focusing on how representations evolve across depth, with clean visualizations of mid-layer “situation modeling” and layer-to-layer dynamics.
   - Layerwise analysis of transformer models (focused on GPT-2 XL)
   - Treats early, mid, and late layers as functionally distinct regimes
@@ -47,5 +40,14 @@ choose your move:
   - Builds clean visualizations of representation flow across layers
   - Frames internal model behavior geometrically (manifold / flow-based) rather than token-only
   - Aims to make transformer internals legible to humans, not just measurable via probe
+ 
+    
+- **Colab Lux**  : SEARCHING FOR DEVS! 
+  A Chrome/Colab workflow tool for auto-generating lightweight docs (timestamp + summary) and pushing updates to Git (e.g., via Gist), with optional “refactor/ticket” prompts.
+    - Chrome/Colab-integrated workflow tool -  for documenting work as it happens
+    - Auto-generates lightweight documentation (timestamps, short summaries, code context)
+    - Pushes documentation directly to GitHub (e.g., via Gists) to create a traceable dev history
+    - Designed to minimize context-switching between coding, thinking, and writing 
+    - Exploring minimal ticketing and refactor prompts to track iteration effort without heavy PM tools
 
 
