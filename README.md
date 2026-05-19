@@ -1,5 +1,6 @@
 # hi, i'm archisa! i like to build things :-)
 thanks for showing interest in my work !!  <br>
+my name is Archisa Bhattacharya, i am an aspiring AI engineer studying at Stevens Institute of Technology!
 reach out to me at archisa28@gmail.com
 ---------------------------------------------------------------------------------------------------------------
 
@@ -39,7 +40,7 @@ choose your move:
     - Designed to minimize context-switching between coding, thinking, and writing 
     - Exploring minimal ticketing and refactor prompts to track iteration effort without heavy PM tools
 
-- **Transformer Architecture + Mid-Layers Visualization **  
+- **SITUATIONION- Transformer Architecture + Mid-Layers Visualization **  
   A layerwise study of GPT-2 XL focusing on how representations evolve across depth, with clean visualizations of mid-layer “situation modeling” and layer-to-layer dynamics.
   - Layerwise analysis of transformer models (focused on GPT-2 XL)
   - Treats early, mid, and late layers as functionally distinct regimes
