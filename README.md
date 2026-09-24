@@ -1,7 +1,7 @@
 # hi, i'm archisa! i like to build things :-)
-thanks for showing interest in my work !!  <br>
+thanks for showing interest in my work !!!  <br>
 my name is Archisa Bhattacharya, i am an aspiring AI engineer studying at Stevens Institute of Technology!
-reach out to me at archisa28@gmail.com
+reach out to me at archisa28@gmail.com! i love to chat 
 ---------------------------------------------------------------------------------------------------------------
 
 ## 🤜🏾 🫱🏻 ✌🏼 -- play  a  round  of  rock  ·  paper  ·  scissors  --🤜🏾 🫱🏻 ✌🏼
